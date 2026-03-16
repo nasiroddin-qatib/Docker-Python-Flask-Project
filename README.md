@@ -112,15 +112,15 @@ http://<EC2-Public-IP>:5000
 
 ### Docker Image Build and Container Creation
 
-![Docker Build](Docker-image-and-container-build.png)
+![Docker Build](Screenshots/Docker-image-and-container-build.png)
 
 ### Flask Application Running in Browser
 
-![Flask App](Flask-app-browser-output.png)
+![Flask App](Screenshots/Flask-app-browser-output.png)
 
 ### GitHub Button Redirecting to Repository
 
-![Redirected Repo](Redirected-repo.png)
+![Redirected Repo](Screenshots/Redirected-repo.png)
 
 ---
 
